@@ -1,0 +1,15 @@
+{
+  "name":         "Beanstalk",
+  "version":      "0.1",
+  "description":  "beanstalkd is a fast, distributed, in-memory workqueue service.",
+  "author":       "Aleksey Yeschenko",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["Beanstalk"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": ["https://github.com/IoLanguage/Socket.git"]
+  }
+}
